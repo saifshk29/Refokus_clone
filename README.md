@@ -13,6 +13,8 @@ This project demonstrates advanced web design techniques with a modern, interact
 -> Framer Motion: For animations and transitions.
 -> Tailwind CSS: For styling with utility-first classes.
 
+https://github.com/saifshk29/Refokus_clone/blob/main/img/Screenshot%202024-08-04%20015002.png?raw=true
+
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
